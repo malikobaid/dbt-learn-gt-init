@@ -1,0 +1,6 @@
+models:
+ - name: stg_jaffle_shop__orders
+columns: 
+- name: order_date
+data_tests:
+   - name: assert_date_greater_2017
