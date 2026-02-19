@@ -1,5 +1,10 @@
 
 target/
 dbt_modules/
+dbt_packages/
 logs/
 dbt_internal_packages/
+.vscode/
+.idea/
+.DS_Store
+.env
